@@ -4,11 +4,11 @@ public class BonusMilesService {
         int my = price / rub;
         int result;
         if (price > rub) {
-           result = 0;
-       } else {
-           result = price / rub;
-       }
-       return result = my;
+            result = 0;
+        } else {
+            result = price / rub;
+        }
+        return result = my;
     }
 
 }
